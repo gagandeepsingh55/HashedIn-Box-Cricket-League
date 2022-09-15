@@ -1,7 +1,7 @@
 # HashedIn-Box-Cricket-League
 Routes with examples:
 
-1) getAllMatches 
+getAllMatches 
 Eg:localhost:3001/matches
 
 getMatchDetails 
